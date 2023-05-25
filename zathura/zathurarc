@@ -1,0 +1,4 @@
+include everforest
+set recolor
+set recolor-keephue
+set selection-clipboard clipboard

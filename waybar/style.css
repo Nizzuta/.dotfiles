@@ -1,0 +1,9 @@
+* {
+    border: none;
+    border-radius: 0;
+    font-family: Ubuntu Mono Nerd Font, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    min-height: 0;
+	padding: 1px 6px 1px 6px;
+	background: rgba(39, 46, 51, 0.95)
+}
